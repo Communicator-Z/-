@@ -4,6 +4,8 @@
 
 -[02 - Day02](./Training_note/Day02.md)
 
--[02 - Day03](./Training_note/Day03.md)
+-[03 - Day03](./Training_note/Day03.md)
+
+-[04 - Day04](./Training_note/Day04.md)
 
 
