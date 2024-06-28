@@ -12,4 +12,6 @@
 
 -[06 - Day06](./Training_note/Day06.md)
 
+-[08 - Day08](./Training_note/Day08.md)
+
 
