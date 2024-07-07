@@ -20,3 +20,11 @@
 
 -[12 - Day12](./Training_note/Day12.md)
 
+-[13 - Day13](./Training_note/Day13.md)
+
+-[14 - Day14](./Training_note/Day14.md)
+
+-[15 - Day15](./Training_note/Day15.md)
+
+-[16 - Day16](./Training_note/Day16.md)
+
