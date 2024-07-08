@@ -28,3 +28,4 @@
 
 -[16 - Day16](./Training_note/Day16.md)
 
+-[18 - Day18](./Training_note/Day18.md)
